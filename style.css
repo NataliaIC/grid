@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    width: 600px;
+    height: 1000px;
+    border: none;
+    margin: 16px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 10px;
+}
+
+.titlu {
+    text-align: center;
+    font-size: 36px;
+}
+
+.input {
+    width: 300px;
+    height: 24px;
+    padding: 16px 0px 8px 0px;
+    border-style: hidden;
+    border-bottom: 1px solid black;
+    font-size: 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.submitButton {
+    margin: 16px;
+    width: 150px;
+    height: 24px;
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}

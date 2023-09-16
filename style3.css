@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+}
+.class{
+   
+    border: 1px solid black;
+   padding: 4 px 8px;
+   margin-bottom: 10px;
+   min-width: 200px;
+}
